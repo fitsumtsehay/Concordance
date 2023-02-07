@@ -1,7 +1,6 @@
 # Concordance
 Given an arbitrary text document written in English, write a program that will generate a concordance, i.e. an alphabetical list of all word occurrences, labeled with word frequencies
 # Output
-C:\Users\fitsu\.jdks\openjdk-19.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2022.2.4\lib\idea_rt.jar=56844:C:\Program Files\JetBrains\IntelliJ IDEA 2022.2.4\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\fitsu\IdeaProjects\Organized\CountWords\out\production\CountWords WordCount
 "Aloha=1
 A=1
 Band=1
